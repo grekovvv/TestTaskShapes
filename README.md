@@ -1,5 +1,10 @@
 # TestTaskShapes
 
+A test project whose task is to calculate the area of the figures. 
+There is a class library, unit tests and the client part is implemented in the form of Console App. 
+
+
+### Additionally:
 SQL Query:
 
 SELECT p.Name AS ProductName, ISNULL(c.Name, 'Нет категории') AS CategoryName
